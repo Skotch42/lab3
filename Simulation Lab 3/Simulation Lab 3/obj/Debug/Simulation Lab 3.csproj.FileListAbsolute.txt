@@ -1,0 +1,33 @@
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.AssemblyReference.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation_Lab_3.Form1.resources
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation_Lab_3.Properties.Resources.resources
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.GenerateResource.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.exe.config
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.exe
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.pdb
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.exe
+C:\Users\anyut\Desktop\Работа и учеба\Учеба 3 курс\2 семестр\Имитационное моделирование\Лабораторная работа 3\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.pdb
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.exe.config
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.exe
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.pdb
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.AssemblyReference.cache
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation_Lab_3.Form1.resources
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation_Lab_3.Properties.Resources.resources
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.GenerateResource.cache
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.exe
+C:\Users\vlado\Downloads\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.exe.config
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.exe
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\bin\Debug\Simulation Lab 3.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.AssemblyReference.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation_Lab_3.Form1.resources
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation_Lab_3.Properties.Resources.resources
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.GenerateResource.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.exe
+C:\Users\vlado\OneDrive\Рабочий стол\имитационка\Simulation Lab 3\Simulation Lab 3\obj\Debug\Simulation Lab 3.pdb
